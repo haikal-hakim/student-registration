@@ -1,4 +1,5 @@
 # Student Registration System
+<https://github.com/haikal-hakim/student-registration/blob/main/Screenshot%202026-03-07%20182921.png>
 
 A Java desktop application for managing new student registrations.
 
